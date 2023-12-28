@@ -1,4 +1,4 @@
-# NextJS-Demo
+# NextJS Demo
 
 ## Account
 
